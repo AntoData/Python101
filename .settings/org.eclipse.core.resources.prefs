@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//Back/Estadisticas.py=latin1
+encoding//Back/FicheroBaraja.py=latin1
+encoding//Cartas/Baraja.py=latin1
+encoding//Cartas/CartaBaraja.py=latin1
+encoding//Cartas/Utiles.py=latin1
+encoding//Front/MenuInicial.py=latin1
+encoding//Front/MesaJuego.py=latin1
+encoding//Front/Pantalla.py=latin1
+encoding//Front/PantallaError.py=latin1
+encoding//Front/ResultadoPartida.py=latin1
+encoding/app.py=latin1
